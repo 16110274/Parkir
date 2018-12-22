@@ -1,0 +1,39 @@
+﻿<Window x:Class="parkiransmart.View.Monitor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:parkiransmart.View"
+        mc:Ignorable="d"
+        Title="Monitor" Height="800" Width="1380">
+    <Grid>
+        <Canvas HorizontalAlignment="Left" Height="769" VerticalAlignment="Top" Width="1372" Background="#FF297875">
+            <Canvas Height="681" Canvas.Top="33" Width="1372" Background="White">
+                <Canvas Height="1" Canvas.Top="98" Width="1372" Background="#FF297875"/>
+                <Button x:Name="btnBayar" Content="Bayar" Canvas.Left="666" Canvas.Top="28" Width="176" Height="47" Background="#FF297875" Foreground="White" BorderBrush="White" Click="btnBayar_Click"  />
+                <Button x:Name="btnControl" Content="Control Menu" Canvas.Left="899" Canvas.Top="28" Width="176" Height="47" Background="#FF297875" Foreground="White" BorderBrush="White" Click="btnControl_Click" />
+                <Button x:Name="btnMonitoring" Content="Monitoring Parkiran" Canvas.Left="1131" Canvas.Top="28" Width="176" Height="47" Background="#FF33D3CD" Foreground="White" BorderBrush="White" />
+                <Button x:Name="btnInput" Content="Input" Canvas.Left="437" Canvas.Top="28" Width="176" Height="47" Background="#FF297875" Foreground="White" BorderBrush="White" Click="btnInput_Click" />
+                <Label x:Name="label1" Content="2017 @ Copyright VViVu Corp. All Rights Reserved." Canvas.Left="19" Canvas.Top="691" Foreground = "White" Background="Transparent"/>
+                <Label x:Name="label2" Content="Designed and Developed by VViVu Corp" Canvas.Left="1131" Canvas.Top="691" Foreground="White"/>
+                <DataGrid x:Name="dgMonitor" Height="455" Canvas.Left="437" Canvas.Top="150" Width="638"/>
+                <Button x:Name="buttonDaftarLogin" Content="Daftar Login" Canvas.Left="1131" Canvas.Top="154" Width="176" Click="buttonDaftarLogin_Click" Height="44"/>
+                <Button x:Name="buttonKendaraanMasuk" Content="Kendaraan Masuk" Canvas.Left="1131" Canvas.Top="208" Width="176" Click="buttonKendaraanMasuk_Click" Height="44"/>
+                <Button x:Name="buttonKendaraanTerparkir" Content="Kendaraan Terparkir" Canvas.Left="1131" Canvas.Top="265" Width="176" Click="buttonKendaraanTerparkir_Click" Height="44"/>
+                <Button x:Name="buttonKendaraanKeluar" Content="Kendaraan Keluar" Canvas.Left="1131" Canvas.Top="320" Width="176" Click="buttonKendaraanKeluar_Click" Height="44"/>
+                <Button x:Name="buttonPembayaran" Content="Pembayaran" Canvas.Left="1131" Canvas.Top="379" Width="176" Click="buttonPembayaran_Click" Height="44"/>
+            </Canvas>
+
+            <Label x:Name="label" Foreground="White" Content="Smart Parkiran - Hartono Mall Yogyakarta" Canvas.Left="10" Canvas.Top="3"/>
+
+            <Image x:Name="image" HorizontalAlignment="Center" VerticalAlignment="Top" Width="316" Source="/Img/logo.png" Margin="26,56,1030,0" Height="85" RenderTransformOrigin="0.5,0.5">
+                <Image.OpacityMask>
+                    <ImageBrush ImageSource="/Img/logo.png"/>
+                </Image.OpacityMask>
+            </Image>
+            <Button x:Name="btnCobakeluar" Content="Logout" Canvas.Left="1287" Width="75" Canvas.Top="5" Background="Red" Foreground="White" Click="btnCobakeluar_Click"/>
+
+        </Canvas>
+        <Label Name="lblTime" FontSize="18" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Top"   />
+    </Grid>
+</Window>

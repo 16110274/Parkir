@@ -1,0 +1,16 @@
+﻿<Window x:Class="parkiransmart.View.Logout"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:parkiransmart.View"
+        mc:Ignorable="d"
+        Title="Logout" Height="800" Width="1380">
+    <Grid Height="790" VerticalAlignment="Top" Background="Red" Margin="0,0,0,-21">
+        <Button x:Name="btnKeluar" Content="Log Out" HorizontalAlignment="Left" Margin="630,429,0,0" VerticalAlignment="Top" Width="138" Background="White" Click="btnKeluar_Click" Height="36"/>
+        <Label x:Name="label" Content="Masukkan Password anda !" HorizontalAlignment="Center" Margin="576,292,534,450" VerticalAlignment="Center" Width="270" Background="{x:Null}" Foreground="White" Height="50" FontSize="20"/>
+        <PasswordBox x:Name="txtPwd" HorizontalAlignment="Left" Margin="560,362,0,0" VerticalAlignment="Top" Width="278" Height="40" FontSize="23"/>
+        <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Left" Margin="630,479,0,0" VerticalAlignment="Top" Width="138" Background="White" Height="36" Click="btnCancel_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,54 @@
+﻿<Window x:Class="parkiransmart.View.Exit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:parkiransmart.View"
+        mc:Ignorable="d"
+        Title="Exit" Height="800" Width="1380">
+    <Grid>
+        <Canvas HorizontalAlignment="Left" Height="769" VerticalAlignment="Top" Width="1372" Background="#FF297875">
+            <Canvas Height="681" Canvas.Top="34" Width="1372" Background="White">
+                <Canvas Height="1" Canvas.Top="98" Width="1372" Background="#FF297875"/>
+                <Button x:Name="button1" Content="Bayar" Canvas.Left="666" Canvas.Top="28" Width="176" Height="47" Background="#FF66DEDA" Foreground="White" BorderBrush="White" />
+                <Button x:Name="button2" Content="Control Menu" Canvas.Left="899" Canvas.Top="28" Width="176" Height="47" Background="#FF297875" Foreground="White" BorderBrush="White" Click="button2_Click" />
+                <Button x:Name="btnMonitoring" Content="Monitoring Parkiran" Canvas.Left="1131" Canvas.Top="28" Width="176" Height="47" Background="#FF297875" Foreground="White" BorderBrush="White" Click="button3_Click"/>
+                <Button x:Name="button4" Content="Input" Canvas.Left="437" Canvas.Top="28" Width="176" Height="47" Background="#FF297875" Foreground="White" BorderBrush="White" Click="button4_Click"/>
+                <Label x:Name="label1" Content="2017 @ Copyright VViVu Corp. All Rights Reserved." Canvas.Left="19" Canvas.Top="691" Foreground = "White" Background="Transparent"/>
+                <Label x:Name="label2" Content="Designed and Developed by VViVu Corp" Canvas.Left="1131" Canvas.Top="691" Foreground="White"/>
+                <Label x:Name="lblPlat" Content="No Plat          :" Canvas.Top="194" Canvas.Left="19" FontSize="24"/>
+                <Label x:Name="lblLokasi" Content="Lokasi           :" Canvas.Top="254" Canvas.Left="19" FontSize="24"/>
+                <Label x:Name="lblJamM" Content="Masuk           :" Canvas.Top="314" Canvas.Left="19" FontSize="24"/>
+                <Label x:Name="lblJamK" Content="Keluar           :" Canvas.Top="374" Canvas.Left="19" FontSize="24"/>
+                <Label x:Name="lblTotal" Content="Total             :" Canvas.Top="432" Canvas.Left="23" RenderTransformOrigin="0.63,0.577" FontSize="24"/>
+                <Label x:Name="lblNmPet" Content="Petugas        :" Canvas.Top="492" Canvas.Left="23" FontSize="24"/>
+                <Button x:Name="btnProses" Content="Proses" Width="176" Canvas.Left="1131" Canvas.Top="614" Height="47" Background="#FFDDDDDD" Foreground="Black" BorderBrush="Black" Click="btnProses_Click" FontSize="20"/>
+                <TextBox x:Name="txtPlatNoIsi" Height="35" Canvas.Left="225" TextWrapping="Wrap" Text="" Canvas.Top="194" Width="316" FontSize="24"/>
+                <TextBox x:Name="txtLokasi" Height="35" Canvas.Left="225" TextWrapping="Wrap" Text="" Canvas.Top="254" Width="316" FontSize="24"/>
+                <TextBox x:Name="txtTotalIsi" Height="42" Canvas.Left="225" TextWrapping="Wrap" Text="" Canvas.Top="432" Width="316" FontSize="24"/>
+                <TextBox x:Name="txtPetIsi" Height="42" Canvas.Left="225" TextWrapping="Wrap" Text="" Canvas.Top="492" Width="316" FontSize="24"/>
+                <Label x:Name="lblKIsi" Content="" Canvas.Left="225" Canvas.Top="369" FontSize="24" Width="136" Height="47"/>
+                <Label x:Name="lblMIsi" Content="" Canvas.Left="225" Canvas.Top="313" Width="136" FontSize="24" Height="43"/>
+                <Button x:Name="btnCek" Content="Check" Canvas.Left="23" Canvas.Top="614" Width="176" Height="47" Background="#FFDDDDDD" Foreground="Black" BorderBrush="Black" Click="btnCek_Click" FontSize="20"/>
+                <Label x:Name="lblNoStat" Content="No Status      :" Canvas.Left="19" Canvas.Top="133" FontSize="24"/>
+                <TextBox x:Name="txtNoStat" Height="35" Canvas.Left="225" TextWrapping="Wrap" Text="" Canvas.Top="140" Width="316" FontSize="24"/>
+                <DataGrid x:Name="dgvExit" Height="0" Width="0" Canvas.Left="1207" Canvas.Top="485"/>
+                <Label x:Name="lblKIsi1" Content="" Canvas.Left="361" Canvas.Top="370" FontSize="24" Width="180" Height="46"/>
+                <Label x:Name="lblMIsi1" Content="" Canvas.Left="361" Canvas.Top="312" Width="171" FontSize="24" Height="44"/>
+                <Label x:Name="lblIdKar" Content="ID                  :" Canvas.Top="543" Canvas.Left="21" FontSize="24"/>
+                <TextBox x:Name="txtID" Height="42" Canvas.Left="225" TextWrapping="Wrap" Text="" Canvas.Top="543" Width="316" FontSize="24"/>
+            </Canvas>
+
+            <Label x:Name="label" Foreground="White" Content="Smart Parkiran - Hartono Mall Yogyakarta" Canvas.Left="10" Canvas.Top="3"/>
+
+
+            <Image x:Name="image" HorizontalAlignment="Center" VerticalAlignment="Top" Width="316" Source= "/Img/logo.png" Margin="26,56,1030,0" Height="85" RenderTransformOrigin="0.5,0.5">
+                <Image.OpacityMask>
+                    <ImageBrush ImageSource="/Img/logo.png"/>
+                </Image.OpacityMask>
+            </Image>
+            <Button x:Name="btnCobakeluar" Content="Logout" Canvas.Left="1287" Width="75" Canvas.Top="5" Background="Red" Foreground="White" Click="btnCobakeluar_Click"/>
+        </Canvas>
+        <Label Name="lblTime" FontSize="18" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Top"   />
+    </Grid>
+</Window>

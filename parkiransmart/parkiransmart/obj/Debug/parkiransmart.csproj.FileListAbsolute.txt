@@ -1,0 +1,77 @@
+D:\S1 TI - Amikom\Program\parkiransmart\parkiransmart\bin\Debug\parkiransmart.exe.config
+D:\S1 TI - Amikom\Program\parkiransmart\parkiransmart\bin\Debug\parkiransmart.exe
+D:\S1 TI - Amikom\Program\parkiransmart\parkiransmart\bin\Debug\parkiransmart.pdb
+D:\S1 TI - Amikom\Program\parkiransmart\parkiransmart\obj\Debug\parkiransmart.csprojResolveAssemblyReference.cache
+D:\S1 TI - Amikom\Program\parkiransmart\parkiransmart\obj\Debug\MainWindow.g.cs
+D:\S1 TI - Amikom\Program\parkiransmart\parkiransmart\obj\Debug\App.g.cs
+D:\S1 TI - Amikom\Program\parkiransmart\parkiransmart\obj\Debug\parkiransmart_MarkupCompile.cache
+D:\S1 TI - Amikom\Program\parkiransmart\parkiransmart\obj\Debug\parkiransmart_MarkupCompile.lref
+D:\S1 TI - Amikom\Program\parkiransmart\parkiransmart\obj\Debug\MainWindow.baml
+D:\S1 TI - Amikom\Program\parkiransmart\parkiransmart\obj\Debug\parkiransmart.g.resources
+D:\S1 TI - Amikom\Program\parkiransmart\parkiransmart\obj\Debug\parkiransmart.Properties.Resources.resources
+D:\S1 TI - Amikom\Program\parkiransmart\parkiransmart\obj\Debug\parkiransmart.csproj.GenerateResource.Cache
+D:\S1 TI - Amikom\Program\parkiransmart\parkiransmart\obj\Debug\parkiransmart.exe
+D:\S1 TI - Amikom\Program\parkiransmart\parkiransmart\obj\Debug\parkiransmart.pdb
+D:\S1 TI - Amikom\Program\parkiransmart\parkiransmart\obj\Debug\Themes\Generic.baml
+D:\S1 TI - Amikom\Program\parkiransmart\parkiransmart\obj\Debug\ctrl.g.cs
+D:\S1 TI - Amikom\Program\parkiransmart\parkiransmart\obj\Debug\ctrl.baml
+D:\S1 TI - Amikom\Program\parkiransmart\parkiransmart\obj\Debug\input.g.cs
+D:\S1 TI - Amikom\Program\parkiransmart\parkiransmart\obj\Debug\input.baml
+D:\S1 TI - Amikom\Program\parkiransmart\parkiransmart\obj\Debug\bayar.g.cs
+D:\S1 TI - Amikom\Program\parkiransmart\parkiransmart\obj\Debug\bayar.baml
+D:\S1 TI - Amikom\Program\parkiransmart\parkiransmart\obj\Debug\monitoring.g.cs
+D:\S1 TI - Amikom\Program\parkiransmart\parkiransmart\obj\Debug\monitoring.baml
+D:\S1 TI - Amikom\Program\parkiransmart\parkiransmart\obj\Debug\louser.g.cs
+D:\S1 TI - Amikom\Program\parkiransmart\parkiransmart\obj\Debug\louser.baml
+C:\Users\spong\Desktop\Berkas Amikom\Materi Kuliah\Interaksi Manusia Komputer\parkiransmart\parkiransmart\bin\Debug\parkiransmart.exe.config
+C:\Users\spong\Desktop\Berkas Amikom\Materi Kuliah\Interaksi Manusia Komputer\parkiransmart\parkiransmart\obj\Debug\parkiransmart.exe
+C:\Users\spong\Desktop\Berkas Amikom\Materi Kuliah\Interaksi Manusia Komputer\parkiransmart\parkiransmart\obj\Debug\parkiransmart.pdb
+C:\Users\spong\Desktop\Berkas Amikom\Materi Kuliah\Interaksi Manusia Komputer\parkiransmart\parkiransmart\bin\Debug\parkiransmart.exe
+C:\Users\spong\Desktop\Berkas Amikom\Materi Kuliah\Interaksi Manusia Komputer\parkiransmart\parkiransmart\bin\Debug\parkiransmart.pdb
+C:\Users\spong\Desktop\Berkas Amikom\Materi Kuliah\Interaksi Manusia Komputer\parkiransmart\parkiransmart\obj\Debug\parkiransmart.csprojResolveAssemblyReference.cache
+C:\Users\spong\Desktop\Berkas Amikom\Materi Kuliah\Interaksi Manusia Komputer\parkiransmart\parkiransmart\obj\Debug\parkiransmart_MarkupCompile.cache
+C:\Users\spong\Desktop\Berkas Amikom\Materi Kuliah\Interaksi Manusia Komputer\parkiransmart\parkiransmart\obj\Debug\parkiransmart_MarkupCompile.lref
+C:\Users\spong\Desktop\Berkas Amikom\Materi Kuliah\Interaksi Manusia Komputer\parkiransmart\parkiransmart\obj\Debug\Themes\Generic.baml
+C:\Users\spong\Desktop\Berkas Amikom\Materi Kuliah\Interaksi Manusia Komputer\parkiransmart\parkiransmart\obj\Debug\parkiransmart.g.resources
+C:\Users\spong\Desktop\Berkas Amikom\Materi Kuliah\Interaksi Manusia Komputer\parkiransmart\parkiransmart\obj\Debug\parkiransmart.Properties.Resources.resources
+C:\Users\spong\Desktop\Berkas Amikom\Materi Kuliah\Interaksi Manusia Komputer\parkiransmart\parkiransmart\obj\Debug\parkiransmart.csproj.GenerateResource.Cache
+C:\Users\spong\Desktop\Berkas Amikom\Materi Kuliah\Interaksi Manusia Komputer\parkiransmart\parkiransmart\obj\Debug\App.g.cs
+C:\Users\spong\Desktop\Berkas Amikom\Materi Kuliah\Interaksi Manusia Komputer\parkiransmart\parkiransmart\obj\Debug\parkiransmart.csproj.CoreCompileInputs.cache
+C:\Users\spong\Desktop\Berkas Amikom\Materi Kuliah\Interaksi Manusia Komputer\parkiransmart\parkiransmart\obj\Debug\View\MainWindow.g.cs
+C:\Users\spong\Desktop\Berkas Amikom\Materi Kuliah\Interaksi Manusia Komputer\parkiransmart\parkiransmart\obj\Debug\View\MainWindow.baml
+C:\Users\spong\Desktop\Berkas Amikom\Materi Kuliah\Interaksi Manusia Komputer\parkiransmart\parkiransmart\obj\Debug\View\Control.g.cs
+C:\Users\spong\Desktop\Berkas Amikom\Materi Kuliah\Interaksi Manusia Komputer\parkiransmart\parkiransmart\obj\Debug\View\Enter.g.cs
+C:\Users\spong\Desktop\Berkas Amikom\Materi Kuliah\Interaksi Manusia Komputer\parkiransmart\parkiransmart\obj\Debug\View\Exit.g.cs
+C:\Users\spong\Desktop\Berkas Amikom\Materi Kuliah\Interaksi Manusia Komputer\parkiransmart\parkiransmart\obj\Debug\View\Logout.g.cs
+C:\Users\spong\Desktop\Berkas Amikom\Materi Kuliah\Interaksi Manusia Komputer\parkiransmart\parkiransmart\obj\Debug\View\Monitor.g.cs
+C:\Users\spong\Desktop\Berkas Amikom\Materi Kuliah\Interaksi Manusia Komputer\parkiransmart\parkiransmart\obj\Debug\View\Control.baml
+C:\Users\spong\Desktop\Berkas Amikom\Materi Kuliah\Interaksi Manusia Komputer\parkiransmart\parkiransmart\obj\Debug\View\Enter.baml
+C:\Users\spong\Desktop\Berkas Amikom\Materi Kuliah\Interaksi Manusia Komputer\parkiransmart\parkiransmart\obj\Debug\View\Exit.baml
+C:\Users\spong\Desktop\Berkas Amikom\Materi Kuliah\Interaksi Manusia Komputer\parkiransmart\parkiransmart\obj\Debug\View\Logout.baml
+C:\Users\spong\Desktop\Berkas Amikom\Materi Kuliah\Interaksi Manusia Komputer\parkiransmart\parkiransmart\obj\Debug\View\Monitor.baml
+C:\Users\spong\Desktop\Berkas Amikom\Project\parkiransmart\parkiransmart\bin\Debug\parkiransmart.exe.config
+C:\Users\spong\Desktop\Berkas Amikom\Project\parkiransmart\parkiransmart\bin\Debug\parkiransmart.exe
+C:\Users\spong\Desktop\Berkas Amikom\Project\parkiransmart\parkiransmart\bin\Debug\parkiransmart.pdb
+C:\Users\spong\Desktop\Berkas Amikom\Project\parkiransmart\parkiransmart\obj\Debug\View\Control.g.cs
+C:\Users\spong\Desktop\Berkas Amikom\Project\parkiransmart\parkiransmart\obj\Debug\View\Enter.g.cs
+C:\Users\spong\Desktop\Berkas Amikom\Project\parkiransmart\parkiransmart\obj\Debug\View\Exit.g.cs
+C:\Users\spong\Desktop\Berkas Amikom\Project\parkiransmart\parkiransmart\obj\Debug\View\Logout.g.cs
+C:\Users\spong\Desktop\Berkas Amikom\Project\parkiransmart\parkiransmart\obj\Debug\View\MainWindow.g.cs
+C:\Users\spong\Desktop\Berkas Amikom\Project\parkiransmart\parkiransmart\obj\Debug\View\Monitor.g.cs
+C:\Users\spong\Desktop\Berkas Amikom\Project\parkiransmart\parkiransmart\obj\Debug\App.g.cs
+C:\Users\spong\Desktop\Berkas Amikom\Project\parkiransmart\parkiransmart\obj\Debug\parkiransmart_MarkupCompile.cache
+C:\Users\spong\Desktop\Berkas Amikom\Project\parkiransmart\parkiransmart\obj\Debug\parkiransmart_MarkupCompile.lref
+C:\Users\spong\Desktop\Berkas Amikom\Project\parkiransmart\parkiransmart\obj\Debug\View\Control.baml
+C:\Users\spong\Desktop\Berkas Amikom\Project\parkiransmart\parkiransmart\obj\Debug\View\Enter.baml
+C:\Users\spong\Desktop\Berkas Amikom\Project\parkiransmart\parkiransmart\obj\Debug\View\Exit.baml
+C:\Users\spong\Desktop\Berkas Amikom\Project\parkiransmart\parkiransmart\obj\Debug\View\Logout.baml
+C:\Users\spong\Desktop\Berkas Amikom\Project\parkiransmart\parkiransmart\obj\Debug\View\MainWindow.baml
+C:\Users\spong\Desktop\Berkas Amikom\Project\parkiransmart\parkiransmart\obj\Debug\Themes\Generic.baml
+C:\Users\spong\Desktop\Berkas Amikom\Project\parkiransmart\parkiransmart\obj\Debug\View\Monitor.baml
+C:\Users\spong\Desktop\Berkas Amikom\Project\parkiransmart\parkiransmart\obj\Debug\parkiransmart.g.resources
+C:\Users\spong\Desktop\Berkas Amikom\Project\parkiransmart\parkiransmart\obj\Debug\parkiransmart.Properties.Resources.resources
+C:\Users\spong\Desktop\Berkas Amikom\Project\parkiransmart\parkiransmart\obj\Debug\parkiransmart.csproj.GenerateResource.Cache
+C:\Users\spong\Desktop\Berkas Amikom\Project\parkiransmart\parkiransmart\obj\Debug\parkiransmart.csproj.CoreCompileInputs.cache
+C:\Users\spong\Desktop\Berkas Amikom\Project\parkiransmart\parkiransmart\obj\Debug\parkiransmart.exe
+C:\Users\spong\Desktop\Berkas Amikom\Project\parkiransmart\parkiransmart\obj\Debug\parkiransmart.pdb
+C:\Users\spong\Desktop\Berkas Amikom\Project\parkiransmart\parkiransmart\obj\Debug\parkiransmart.csprojAssemblyReference.cache

@@ -1,0 +1,78 @@
+﻿<Window x:Class="parkiransmart.View.Enter"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:parkiransmart.View"
+        mc:Ignorable="d"
+        Title="Enter" Height="300" Width="1380">
+    <Grid>
+        <Canvas HorizontalAlignment="Left" Height="769" VerticalAlignment="Top" Width="1372" Background="#FF297875">
+            <Canvas Height="681" Canvas.Top="33" Width="1372" Background="White">
+                <Canvas Height="1" Canvas.Top="98" Width="1372" Background="#FF297875"/>
+                <Button x:Name="button1" Content="Bayar" Canvas.Left="666" Canvas.Top="28" Width="176" Height="47" Background="#FF297875" Foreground="White" BorderBrush="White" Click="button1_Click_1" />
+                <Button x:Name="button2" Content="Control Menu" Canvas.Left="899" Canvas.Top="28" Width="176" Height="47" Background="#FF297875" Foreground="White" BorderBrush="White" Click="button2_Click_1" />
+                <Button x:Name="btnMonitoring" Content="Monitoring Parkiran" Canvas.Left="1131" Canvas.Top="28" Width="176" Height="47" Background="#FF297875" Foreground="White" BorderBrush="White" Click="btnMonitoring_Click"/>
+                <Button x:Name="button4" Content="Input" Canvas.Left="437" Canvas.Top="28" Width="176" Height="47" Background="#FF33D3CD" Foreground="White" BorderBrush="White"/>
+                <Label x:Name="label1" Content="2017 @ Copyright VViVu Corp. All Rights Reserved." Canvas.Left="19" Canvas.Top="691" Foreground = "White" Background="Transparent"/>
+                <Label x:Name="label2" Content="Designed and Developed by VViVu Corp" Canvas.Left="1131" Canvas.Top="691" Foreground="White"/>
+                <Grid Height="460" Canvas.Left="40" Canvas.Top="127" Width="920" Background="Black">
+                    <Label x:Name="label7" Content="A" HorizontalAlignment="Left" Margin="65,95,0,0" VerticalAlignment="Top" Foreground="White" FontSize="30" FontWeight="Bold"/>
+                    <Label x:Name="label8" Content="B" HorizontalAlignment="Left" Margin="65,175,0,0" VerticalAlignment="Top" Foreground="White" FontSize="30" FontWeight="Bold" RenderTransformOrigin="0.517,0"/>
+                    <Label x:Name="label9" Content="C" HorizontalAlignment="Left" Margin="65,255,0,0" VerticalAlignment="Top" Foreground="White" FontSize="30" FontWeight="Bold" RenderTransformOrigin="0.517,0.1"/>
+                    <Label x:Name="label10" Content="D" HorizontalAlignment="Left" Margin="63,335,0,0" VerticalAlignment="Top" Foreground="White" FontSize="30" FontWeight="Bold"/>
+                    <Button x:Name="buttonA1" Content="1" Margin="135,95,735,315" Background="Lime" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonA2" Content="2" Margin="215,95,655,315" Background="Lime" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonA3" Content="3" Margin="295,95,575,315" Background="Red" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonA4" Content="4" Margin="375,95,495,315" Background="Red" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonA5" Content="5" Margin="455,95,415,315" Background="Red" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonA6" Content="6" Margin="535,95,335,315" Background="Red" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonA7" Content="7" Margin="615,95,255,315" Background="Red" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonA8" Content="8" Margin="695,95,175,315" Background="Red" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonA9" Content="9" Margin="775,95,95,315" Background="Red" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonB1" Content="1" Margin="135,182,735,228" Background="Red" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonB2" Content="2" Margin="215,182,655,228" Background="Red" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonB3" Content="3" Margin="295,182,575,228" Background="Lime" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonB4" Content="4" Margin="375,182,495,228" Background="Lime" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonB5" Content="5" Margin="455,182,415,228" Background="Lime" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonB6" Content="6" Margin="535,182,335,228" Background="Lime" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonB7" Content="7" Margin="615,182,255,228" Background="Lime" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonB8" Content="8" Margin="695,182,175,228" Background="Lime" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonB9" Content="9" Margin="775,182,95,228" Background="Lime" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonC1" Content="1" Margin="135,255,735,155" Background="Red" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonC2" Content="2" Margin="215,255,655,155" Background="Red" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonC3" Content="3" Margin="295,255,575,155" Background="Lime" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonC4" Content="4" Margin="375,255,495,155" Background="Lime" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonC5" Content="5" Margin="455,255,415,155" Background="Lime" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonC6" Content="6" Margin="535,255,335,155" Background="Lime" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonC7" Content="7" Margin="615,255,255,155" Background="Lime" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonC8" Content="8" Margin="695,255,175,155" Background="Lime" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonC9" Content="9" Margin="775,255,95,155" Background="Lime" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonD1" Content="1" Margin="135,340,735,70" Background="Lime" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonD2" Content="2" Margin="215,340,655,70" Background="Lime" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonD3" Content="3" Margin="295,340,575,70" Background="Lime" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonD4" Content="4" Margin="375,340,495,70" Background="Lime" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonD5" Content="5" Margin="455,340,415,70" Background="Lime" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonD6" Content="6" Margin="535,340,335,70" Background="Lime" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonD7" Content="7" Margin="615,340,255,70" Background="Lime" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonD8" Content="8" Margin="695,340,175,70" Background="Lime" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                    <Button x:Name="buttonD9" Content="9" Margin="775,340,95,70" Background="Lime" FontSize="22" FontWeight="Bold" BorderBrush="#FF7F7F7F"/>
+                </Grid>
+                <Label x:Name="label3" Content="LOKASI PARKIR ANDA" Height="45" Canvas.Left="1000" Canvas.Top="172" Width="325" FontSize="30" FontWeight="Bold"/>
+                <TextBox x:Name="textBox" Height="151" Canvas.Left="1085" TextWrapping="Wrap" Text="" Canvas.Top="287" Width="140" FontSize="100" FontWeight="Bold" HorizontalAlignment="Center" TextAlignment="Center"/>
+                <Button x:Name="button3_Copy" Content="Generate" Canvas.Left="1085" Canvas.Top="567" Width="140" FontSize="25" Height="40" Click="button3_Click"/>
+                <TextBox x:Name="txtPlat" Height="39" Canvas.Left="1085" TextWrapping="Wrap" Text="Plat No" Canvas.Top="496" Width="140" FontSize="20" TextAlignment="Center"/>
+            </Canvas>
+
+            <Label x:Name="label" Foreground="White" Content="Smart Parkiran - Hartono Mall Yogyakarta" Canvas.Left="10" Canvas.Top="3"/>
+
+            <Image x:Name="image" HorizontalAlignment="Center" VerticalAlignment="Top" Width="316" Source="/Img/logo.png" Margin="26,56,1030,0" Height="85" RenderTransformOrigin="0.5,0.5">
+                <Image.OpacityMask>
+                    <ImageBrush ImageSource="/Img/logo.png"/>
+                </Image.OpacityMask>
+            </Image>
+            <Button x:Name="btnCobakeluar" Content="Logout" Canvas.Left="1287" Width="75" Canvas.Top="5" Background="Red" Foreground="White" Click="btnCobakeluar_Click"/>
+        </Canvas>
+        <Label Name="lblTime" FontSize="18" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Top"   />
+    </Grid>
+</Window>
