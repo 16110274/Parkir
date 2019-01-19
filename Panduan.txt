@@ -1,0 +1,33 @@
+Program ini dibuat dengan Microsoft Visual Studio 2017 dan Microsoft SQL Server 2017
+
+========================
+	DATABASE
+========================
+Langkah - Langkah Konfigurasi Database:
+1. Buka SQL Server Management Studio
+2. Login pada server lokal menggunakan autentikasi windows
+3. Pada Object Explorer, klik kanan folder Databases, pilih Attach...
+4. Klik Add...
+5. Pilih file database yang berada dalam folder db (Parkir.mdf)
+6. Klik OK
+7. Database telah berhasil ditambahkan pada server jika telah muncul pada Object Explorer
+
+=======================
+	PROGRAM
+=======================
+Langkah - Langkah Konfigurasi Program:
+1. Buka Microsoft Visual Studio
+2. Pilih File > Open > Project/Solution
+3. Pilih file parkiransmart.sln, Klik Open
+4. Pada Solution Explorer, buka file Koneksi.cs yang terdapat dalam folder KoneksiDB
+5. Pada Baris 17, ubah Data Source sesuai nama server lokal pada SQL Server
+	"Data Source = ASUS-K401UQ;" --> "Data Source = NAMA-KOMPUTER;"
+6. Jalankan program dengan menekan tombol F5
+7. Apabila proses login berhasil, maka database berhasil terkoneksi dengan program dan seluruh fungsi program dapat dijalankan
+	Informasi login Default
+		ID	: PG014
+		PASS	: Ria
+	Password digunakan untuk proses logout
+	Login dapat dilakukan dengan identitas lain yang berada pada tabel pegawai pada database dengan:
+		ID	: No_Pegawai
+		PASS	: Nama
